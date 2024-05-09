@@ -5,10 +5,7 @@ const Header = () => {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div className="container">
-          <Link className="navbar-brand" to="/">
-           <img src="logo.svg" alt="" />
-            &nbsp; Cocktail Website
+        <div className="container">            &nbsp; Cocktail Website
           </Link>
           <button
             className="navbar-toggler"
